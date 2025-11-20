@@ -1,4 +1,5 @@
 # CustomBox
+
 How to use scrap cardboard to fold a custom box without a lid
 
 I wanted custom-sized bins for miscellaneous parts that are stashed in plastic bags that measure 2"x3". I was inspired by [Itoshige Studio](https://www.youtube.com/watch?v=TuWWe0ORXug) and adapted the most basic techniques I noticed in the video linked.
@@ -20,6 +21,13 @@ custom-box.ods is a LibreOffice Calc file. It might well work in Excel.
 5. I score the green lines in the illustration.
 
 6. Fold it together, inserting the tabs in the slots.
+
+# Tools
+
+I use:
+    - a metal ruler both to mark & draw lines and also as a cutting guide
+    - a safety razor: It is noted that a perfectly sharp blade is not necessarily an advantage. Several light scores are better than one heavy-handed cut. They're also safer.
+    - A metal "spudger" has proved useful for excavating a layer and interior of the corrugated cardboard. Your blade can also be used (carefully!).
 
 # Cutting / Folding Guide
 
