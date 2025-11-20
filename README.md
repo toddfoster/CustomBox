@@ -25,6 +25,7 @@ custom-box.ods is a LibreOffice Calc file. It might well work in Excel.
 # Tools
 
 I use:
+    
     - a metal ruler both to mark & draw lines and also as a cutting guide
     - a safety razor: It is noted that a perfectly sharp blade is not necessarily an advantage. Several light scores are better than one heavy-handed cut. They're also safer.
     - A metal "spudger" has proved useful for excavating a layer and interior of the corrugated cardboard. Your blade can also be used (carefully!).
